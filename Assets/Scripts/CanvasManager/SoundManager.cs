@@ -8,7 +8,7 @@ public class SoundManager : MonoBehaviour
 {
     public TextMeshProUGUI volAmount;
     public Slider volumeSlider;
-
+    
     public void SetAudio()
     {
         float sliderValue = volumeSlider.value;

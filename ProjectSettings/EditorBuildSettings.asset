@@ -9,14 +9,26 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScene.unity
     guid: 835804ebee3a14343889ef68cf61aafb
   - enabled: 1
+    path: Assets/Scenes/Transition1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 93be778f0412bbb489b5ea9e09be0635
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: e17233580bb2b6b488cb94e3a092a437
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 56a37d268c587db48a1e034aff4b79f6
   - enabled: 1
+    path: Assets/Scenes/Transition3.unity
+    guid: cc175f553891b214f9e1474d647b39b3
+  - enabled: 1
     path: Assets/Scenes/BossBattleScene.unity
     guid: d1cba6b96b5c8e845b8e34aa25af7e2a
+  - enabled: 1
+    path: Assets/Scenes/YouWinScene.unity
+    guid: 1615737cafdcabc4ea21196e34a5c0bf
   - enabled: 1
     path: Assets/Scenes/GameOverScene.unity
     guid: b53e49779430268448960f2983735c4d
